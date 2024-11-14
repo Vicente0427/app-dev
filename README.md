@@ -1,20 +1,28 @@
 # app-dev
 My first repository
-# H1
-## H2
-### H3
 
+# H1
+### My Favorite Smartphones
+1. Nothing Phone (2)
+2. iPhone 15
+3. Samsung Galaxy S24 FE
+4. Samsung Galaxy S24 Ultra
+5. Realme C67
+
+- It has a glyph interface
+- One of the most popular with a long-lasting battery life
+- Just fancy, but more colorful with the similar features inspired by the Samsung Galaxy S24 series
+- With a Pen-style that creates a reimagined designs
+- One of the best budget smartphones, with the best performance and better quality of camera
+
+## H2
 **bold text**
 *italicized text*
 
 > blockquote
-1. First item
-2. Second item
-3. Third item
-   
-- First item
-- Second item
-- Third item
+
+### H3
+
   
 `code`
 Horizontal Rule	---
